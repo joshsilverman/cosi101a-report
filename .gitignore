@@ -7,8 +7,6 @@ data/*.tsv
 LICENSE
 README.txt
 
-compute-accuracy
-compute-accuracy.c
 data/
 demo-analogy.sh
 demo-classes.sh
