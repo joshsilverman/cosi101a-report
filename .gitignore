@@ -1,0 +1,5 @@
+data/ferret.idx/*
+vectors.bin*
+text8.gz
+data/*.csv
+data/*.tsv
