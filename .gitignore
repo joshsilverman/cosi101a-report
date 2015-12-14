@@ -18,12 +18,7 @@ demo-train-big-model-v1.sh
 demo-word-accuracy.sh
 demo-word.sh
 
-makefile
 qa.c
 questions-phrases.txt
 questions-words.txt
 training_set.tsv
-word-analogy
-word-analogy.c
-word2phrase
-word2phrase.c
